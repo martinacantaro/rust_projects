@@ -40,6 +40,15 @@ fn main() {
 
     println!("Another way of accessing tuples is this: My name is {:?}", tup.3);
 
+    //conditionals
+
+    {
+        let age = 35;
+        let is_adult = if age > 18{"yes"} else {"no"};
+
+        println!("is this an adult? {is_adult}")
+    }
+
 
 }
 
