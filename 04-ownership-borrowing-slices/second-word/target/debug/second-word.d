@@ -1,0 +1,1 @@
+/Users/lambda/Documents/Lambda/rust_projects/04-ownership-borrowing-slices/second-word/target/debug/second-word: /Users/lambda/Documents/Lambda/rust_projects/04-ownership-borrowing-slices/second-word/src/main.rs
